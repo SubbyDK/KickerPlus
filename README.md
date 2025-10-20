@@ -30,7 +30,8 @@ To open the interface for settings use:
 - [ ] zhCN - Chinese (China) (simplified) implemented LTR left-to-right in WoW
 - [ ] koKR - Korean (Korea) RTL - right-to-left
 > [!TIP]
-> Feel free to translate to the missing clients.
+> Feel free to translate to any missing client.
+> But please inform if you do so other people can enjoy it also.
 
 > [!CAUTION]
-> <B>USE IT AT YOUR OWN RISK !</B>
+> <B>USE IT AT YOUR OWN RISK !
