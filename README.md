@@ -4,8 +4,7 @@
 Will announce if a interrupt is used.  
 Will announce if it went through or failed.
 
-> [!NOTE]
-> Instruction
+### Instruction
 To open the interface for settings use:  
 /kp or /kickerplus
 
