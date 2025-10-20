@@ -5,7 +5,7 @@ Will announce if a interrupt is used.</br>
 Will announce if it went through or failed.
 
 ### Instruction
-To open the interface for settings use: 
+To open the interface for settings use:</br>
 /kp or /kickerplus
 
 ### Supported classes
