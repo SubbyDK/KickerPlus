@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: KickerPlus
+## Author: Subby
+## Notes: Interrupt announcer.
+## Version: 0.3
+## X-Date: 2025-09-30
+## X-Website: https://github.com/SubbyDK/KickerPlus
+## DefaultState: enabled
+## Dependencies: 
+## OptionalDeps: 
+## SavedVariables: 
+## SavedVariablesPerCharacter: ANNOUNCE_CHANNEL, ANNOUNCE_SOLO, ANNOUNCE_PARTY, ANNOUNCE_RAID
+
+KickerPlus.lua
