@@ -4,7 +4,7 @@
 Will announce if a interrupt is used.  
 Will announce if it went through or failed.
 
-> [!TIP] Instruction
+### Instruction
 To open the interface for settings use:  
 /kp or /kickerplus
 
@@ -32,4 +32,5 @@ To open the interface for settings use:
 
 Feel free to translate to the missing clients.
 
-### <B>USE IT AT YOUR OWN RISK !</B>
+> [!CAUTION]
+> <B>USE IT AT YOUR OWN RISK !</B>
