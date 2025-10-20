@@ -1,7 +1,7 @@
 # KickerPlus for Turtle WoW
 
 ### What is this ?
-Will announce if a interrupt is used.
+Will announce if a interrupt is used. 
 Will announce if it went through or failed.
 
 ### Instruction
