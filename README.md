@@ -4,7 +4,8 @@
 Will announce if a interrupt is used.  
 Will announce if it went through or failed.
 
-### Instruction
+> [!NOTE]
+> Instruction
 To open the interface for settings use:  
 /kp or /kickerplus
 
@@ -29,8 +30,8 @@ To open the interface for settings use:
 - [ ] zhTW - Chinese (Taiwan) (traditional) implemented LTR left-to-right in WoW
 - [ ] zhCN - Chinese (China) (simplified) implemented LTR left-to-right in WoW
 - [ ] koKR - Korean (Korea) RTL - right-to-left
-
-Feel free to translate to the missing clients.
+> [!TIP]
+> Feel free to translate to the missing clients.
 
 > [!CAUTION]
 > <B>USE IT AT YOUR OWN RISK !</B>
