@@ -1,8 +1,7 @@
 # KickerPlus for WoW 1.12
 
 ### What is this ?
-Will announce if a interrupt is used.  
-Will announce if it went through or failed.
+Will announce if a interrupt is used, but will also inform if it was a failed interrupt.
 
 ### Instruction
 To open the interface for settings use:  
