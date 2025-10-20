@@ -1,11 +1,11 @@
 # KickerPlus for Turtle WoW
 
 ### What is this ?
-Will announce if a interrupt is used.</br>
+Will announce if a interrupt is used.  
 Will announce if it went through or failed.
 
 ### Instruction
-To open the interface for settings use:</br>
+To open the interface for settings use:  
 /kp or /kickerplus
 
 ### Supported classes
