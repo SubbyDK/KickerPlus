@@ -1,4 +1,4 @@
-# KickerPlus for Turtle WoW
+# KickerPlus for WoW 1.12
 
 ### What is this ?
 Will announce if a interrupt is used.  
