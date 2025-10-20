@@ -2,7 +2,7 @@
 
 ### What is this ?
 Will announce if a interrupt is used.  
-But will also inform if the interrupt was missed, dodged, blocked or parried so another one can interrupt.
+But will also inform if the interrupt was missed, dodged, blocked or parried, so another player can interrupt.
 
 ### Instruction
 To open the interface for settings use:  
