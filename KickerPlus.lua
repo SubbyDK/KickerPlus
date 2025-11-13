@@ -193,7 +193,7 @@ f:SetScript("OnUpdate", function()
 
     if (LogInTime ~= "Done") then
         if ((LogInTime + 3) < GetTime()) then
-            DEFAULT_CHAT_FRAME:AddMessage("|cff3333ff" .. L["TITLE"] .. "|r" .. " by " .. "|cFF06c51b" .. "Subby" .. "|r" .. "|cff3333ff" .. " is loaded." .. "|r");
+            DEFAULT_CHAT_FRAME:AddMessage("|cffFF8000" .. L["TITLE"] .. "|r" .. " by " .. "|cFFFFF468" .. "Subby" .. "|r" .. " is loaded.");
             LogInTime = "Done"
         end
     end
