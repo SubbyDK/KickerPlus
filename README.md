@@ -35,3 +35,9 @@ To open the interface for settings use:
 
 > [!CAUTION]
 > <B>USE IT AT YOUR OWN RISK !
+
+---
+
+## 📄 License
+
+MIT License — do what you want with it. Credits appreciated but not required.
