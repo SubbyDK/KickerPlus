@@ -1,14 +1,14 @@
 -- Some locals.
-local AddonName = "KickerPlus"                      -- Just to easy get the name of the addon.
-local LogInTime = GetTime()                     -- The time we login so we can make a welcome message a few sec later.
-local L = {}                                    -- Create the table used for localization.
-local InterruptChannel = "SAY"                  -- What channel to announce it. ("SAY", "WHISPER", "EMOTE", "PARTY", "YELL", "RAID")
+local AddonName = "KickerPlus"                              -- Just to easy get the name of the addon.
+local LogInTime = GetTime()                                 -- The time we login so we can make a welcome message a few sec later.
+local L = {}                                                -- Create the table used for localization.
+local InterruptChannel = "SAY"                              -- What channel to announce it. ("SAY", "WHISPER", "EMOTE", "PARTY", "YELL", "RAID")
 
 -- Create frame.
 local f = CreateFrame("Frame")
 -- Register the event we need.
 f:RegisterEvent("ADDON_LOADED")
-f:RegisterEvent("CHAT_MSG_SPELL_SELF_DAMAGE") -- Register the damage you do your self.
+f:RegisterEvent("CHAT_MSG_SPELL_SELF_DAMAGE")               -- Register the damage you do your self.
 --f:RegisterEvent("CHAT_MSG_SPELL_PARTY_DAMAGE")
 --f:RegisterEvent("CHAT_MSG_SPELL_FRIENDLYPLAYER_DAMAGE")
 --f:RegisterEvent("CHAT_MSG_SPELL_HOSTILEPLAYER_DAMAGE")
@@ -276,7 +276,7 @@ function AnnounceInterrupt(msg)
         MessageToSend = L["INTERRUPT_USED"]
 
     -- If it's a variation we don't know, then we tell people so they can inform about it.
-    elseif (string.find(Message, "Your Kick")) or (string.find(Message, "Your Pummel")) or (string.find(Message, "Your Shield Bash")) or (string.find(Message, "Your Earth Shock")) then
+    elseif (string.find(Message, "Your Kick")) or (string.find(Message, "Your Pummel")) or (string.find(Message, "Your Shield Bash")) or (string.find(Message, "Your Earth Shock")) or (string.find(Message, "Your Counterspell")) then
         DEFAULT_CHAT_FRAME:AddMessage(AddonName .. ": New variation found.");
         DEFAULT_CHAT_FRAME:AddMessage(Message);
         DEFAULT_CHAT_FRAME:AddMessage(AddonName .. ": Please report the above to Subber on Nordanaar. (Turtle WoW)");
